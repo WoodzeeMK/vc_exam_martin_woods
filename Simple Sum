@@ -1,3 +1,4 @@
 A = 10
 B = 5
-print (A+B)
+C - 3
+print (A+B+C)
